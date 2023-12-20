@@ -1,0 +1,2 @@
+./nodebb setup
+./nodebb start
